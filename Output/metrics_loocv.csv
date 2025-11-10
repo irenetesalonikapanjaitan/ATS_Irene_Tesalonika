@@ -1,0 +1,2 @@
+accuracy,precision_macro,recall_macro,f1_macro,training_time_seconds,cv_method
+0.6757692307692308,0.686879965766666,0.6757692307692308,0.6723758531926178,16.376399517059326,LOOCV
